@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Logo WONY">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFB6D6"/><stop offset="1" stop-color="#F0479A"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF3F8"/><stop offset="1" stop-color="#FFD9EC"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="60" fill="url(#c)"/>
+  <g fill="url(#p)">
+    <path d="M64 20c8 8 12 16 12 23a12 12 0 0 1-24 0c0-7 4-15 12-23Z"/>
+    <path d="M108 64c-8 8-16 12-23 12a12 12 0 0 1 0-24c7 0 15 4 23 12Z"/>
+    <path d="M64 108c-8-8-12-16-12-23a12 12 0 0 1 24 0c0 7-4 15-12 23Z"/>
+    <path d="M20 64c8-8 16-12 23-12a12 12 0 0 1 0 24c-7 0-15-4-23-12Z"/>
+    <path d="M95 33c-1 11-5 19-10 24a12 12 0 0 1-17-17c5-5 16-8 27-7Z" opacity=".85"/>
+  </g>
+  <circle cx="64" cy="64" r="11" fill="#FFC44D"/>
+  <circle cx="64" cy="64" r="5" fill="#F5A623"/>
+</svg>
